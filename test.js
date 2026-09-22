@@ -19,7 +19,7 @@ function calculate(a, operator, b) {
 }
 
 const tests = [
-  { a: 5, op: '+', b: 3, expected: 9 },
+  { a: 5, op: '+', b: 3, expected: 8 },
   { a: 10, op: '-', b: 4, expected: 6 },
   { a: 7, op: '*', b: 6, expected: 42 },
   { a: 20, op: '/', b: 4, expected: 5 },
