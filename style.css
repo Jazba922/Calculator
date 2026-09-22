@@ -10,15 +10,15 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(135deg, #1f1c2c, #928dab);
+  background: linear-gradient(135deg, #07d73f, #00b7ff);
 }
 
 .calculator {
   width: 320px;
-  background: #1e1e2f;
+  background: #00810f;
   border-radius: 16px;
   padding: 20px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 10px 30px rgba(0, 215, 100, 0.4);
 }
 
 .display {
@@ -34,7 +34,7 @@ body {
 }
 
 .expression {
-  color: #9a9ab0;
+  color: #00a378;
   font-size: 1rem;
   min-height: 20px;
   word-wrap: break-word;
